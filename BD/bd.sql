@@ -6,5 +6,6 @@ create table medicamentos (
     nombre varchar(50),
     existencia int,
     fecharegistro date,
+    imagen varchar(50),
     precio float
 )

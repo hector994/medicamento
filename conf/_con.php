@@ -1,8 +1,9 @@
+
 <?php
-$hostname = "";  
-$username = ""; 
+$hostname = "localhost";  
+$username = "root"; 
 $password = "";
-$database_name = ""; 
+$database_name = "db_resultado"; 
 
 try {
   
